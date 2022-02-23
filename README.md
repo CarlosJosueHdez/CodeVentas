@@ -1,0 +1,2 @@
+# CodeVentas
+Pseudocódigo Ventas PSeInt
